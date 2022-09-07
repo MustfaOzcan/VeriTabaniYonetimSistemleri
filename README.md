@@ -21,4 +21,6 @@ Yemek Sayısı Tablosu güncelleniyor.
 ### Silinen Yemek
 Ana tabloda bir yemek sildiğimizde trigger yardımıyla silinen yemekler tablosuna ekleniyor.
 ![silinenyemkler](https://user-images.githubusercontent.com/103693735/184670816-10c64b7d-34c3-4f51-a8d1-c1362e971000.jpg)
+### Diagram 
 
+[diagram.pdf](https://github.com/MustfaOzcan/VeriTabaniYonetimSistemleri/files/9508913/diagram.pdf)
